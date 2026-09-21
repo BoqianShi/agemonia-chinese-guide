@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#1b382b">
+  <meta name="description" content="按故事号码查阅阿格莫尼亚中文故事书，只显示指定段落与原书页码。">
+  <title>故事书号码快查 · 阿格莫尼亚</title>
+  <link rel="stylesheet" href="assets/guide.css">
+  <link rel="stylesheet" href="assets/story.css">
+  <noscript><style>#story-status { display: none; }</style></noscript>
+  <script src="assets/story-data.js" defer></script>
+  <script src="assets/story.js" defer></script>
+</head>
+<body class="story-page">
+  <a class="skip-link" href="#main-content">跳至正文</a>
+  <header class="shell-head">
+    <div class="shell-inner">
+      <a href="index.html#home" class="brand"><span>阿格莫尼亚</span><small>中文规则指南</small></a>
+      <span class="header-divider" aria-hidden="true"></span>
+      <span class="story-header-context">故事书</span>
+      <a class="story-header-back" href="index.html#quick">桌边速查 <span aria-hidden="true">↗</span></a>
+    </div>
+  </header>
+  <main id="main-content" class="story-main">
+    <nav class="crumb" aria-label="当前位置"><a href="index.html#home">首页</a><span aria-hidden="true">/</span><a href="index.html#quick">桌边速查</a><span aria-hidden="true">/</span><span aria-current="page">故事书</span></nav>
+    <header class="story-intro">
+      <div class="eyebrow">AGEMONIA / 故事书</div>
+      <h1>故事书号码快查</h1>
+      <p>输入游戏指示的号码，阅读对应中文段落。</p>
+      <p class="story-boundary">每次只打开一个故事，不显示其他段落。</p>
+    </header>
+
+    <section class="story-lookup" aria-label="按号码查找">
+      <form id="story-form" novalidate>
+        <fieldset id="story-controls" disabled>
+          <legend class="story-sr-only">故事号码查询</legend>
+          <label for="story-number">故事号码</label>
+          <div class="story-input-row">
+            <input id="story-number" name="story" type="text" inputmode="numeric" enterkeyhint="search" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="输入号码" aria-describedby="story-input-help story-status">
+            <button class="button story-primary" type="submit">查找并阅读 <span aria-hidden="true">→</span></button>
+          </div>
+          <p id="story-input-help" class="muted">输入 1–3 位数字即可，自动补齐前面的 0；也支持全角数字。</p>
+        </fieldset>
+      </form>
+      <p id="story-status" class="story-status" role="status" aria-live="polite" aria-atomic="true">启用浏览器脚本后即可按号码查找。</p>
+      <noscript><p class="note">号码快查需要浏览器允许脚本。当前请按游戏给出的号码，在中文故事书中查找对应段落。</p></noscript>
+      <section id="story-recent" class="story-recent" aria-label="本次查询" hidden>
+        <div class="story-recent-label"><span>本次查询</span><button id="story-clear-recent" type="button">清除</button></div>
+        <div id="story-recent-list" class="story-recent-list"></div>
+      </section>
+    </section>
+
+    <article id="story-result" class="story-result" aria-labelledby="story-result-title" hidden>
+      <header class="story-result-head">
+        <div>
+          <div class="eyebrow">当前故事</div>
+          <h2 id="story-result-title" tabindex="-1">故事 <span id="story-result-number"></span></h2>
+          <p id="story-pages" class="story-pages"></p>
+        </div>
+        <svg class="story-book" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M24 12v27M5 9c7-2 13-1 19 3 6-4 12-5 19-3v27c-7-2-13-1-19 3-6-4-12-5-19-3z"></path><path d="M11 16c3 0 5 .5 8 2M11 22c3 0 5 .5 8 2M29 18c3-1.5 5-2 8-2M29 24c3-1.5 5-2 8-2"></path></svg>
+      </header>
+      <div class="story-actions">
+        <button id="story-toggle" class="button story-primary" type="button" aria-expanded="false" aria-controls="story-reader">阅读这一段</button>
+        <button id="story-zoom" class="button" type="button" aria-pressed="false" aria-controls="story-images" hidden>放大原文</button>
+        <a id="story-permalink" class="story-permalink" href="#">此号码链接 <span aria-hidden="true">↗</span></a>
+      </div>
+      <p id="story-collapsed-note" class="muted">原文已收起。点击“阅读这一段”查看。</p>
+      <section id="story-reader" aria-label="当前故事原文" hidden>
+        <p class="story-reading-note">仅显示当前号码的原书段落。放大后可左右滑动查看。</p>
+        <div id="story-images" class="story-images"></div>
+        <button id="story-close-bottom" class="button story-close-bottom" type="button">收起这一段 <span aria-hidden="true">↑</span></button>
+      </section>
+    </article>
+
+    <aside class="story-help" aria-labelledby="story-help-title">
+      <h2 id="story-help-title">跟随游戏，再打开故事。</h2>
+      <p>仅在游戏指示阅读时查询。号码链接只定位段落，打开链接后需点“阅读这一段”才显示原文。</p>
+      <p id="story-page-help">每段附有原书页码；若图片无法载入，可据此翻阅原书。</p>
+      <p id="story-coverage" class="muted" hidden></p>
+    </aside>
+  </main>
+  <footer class="site-foot story-foot"><span>阿格莫尼亚 · 中文故事书快查</span><a href="index.html#home">返回指南首页</a><a href="index.html#quick">桌边速查</a></footer>
+</body>
+</html>
