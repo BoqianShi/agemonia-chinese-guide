@@ -24,6 +24,8 @@ GitHub Pages：Settings → Pages → Deploy from a branch → main → / (root)
 
 `index.html` 保存分栏内容与原页引用，`assets/guide.js` 包含搜索索引及交互，`assets/guide.css` 保存样式。修改内容后同步更新搜索索引。
 
+升级入口 `index.html#upgrade` 提供1—5级清单、两书阅读时点、开放式行动槽、各等级专精费用及加入队伍例外。来源、审查范围与更正原因见 [升级规则审查](docs/upgrade-audit.md)。
+
 ## 典籍风格试作
 
 暖白背景、墨绿页眉、中文衬线标题、扁平技能列表；手机底部导航；职业标签仅切换展示，不记录职业选择。正文中的名词可原地展开，禁用脚本时仍可打开独立条目。
