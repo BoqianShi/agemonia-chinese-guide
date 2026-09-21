@@ -23,3 +23,9 @@ GitHub Pages：Settings → Pages → Deploy from a branch → main → / (root)
 ## 维护
 
 `index.html` 保存分栏内容与原页引用，`assets/guide.js` 包含搜索索引及交互，`assets/guide.css` 保存样式。修改内容后同步更新搜索索引。
+
+## 典籍风格试作
+
+暖白背景、墨绿页眉、中文衬线标题、扁平技能列表；手机底部导航；职业标签仅切换展示，不记录职业选择。正文中的名词可原地展开，禁用脚本时仍可打开独立条目。
+
+本版保留原有条目 ID 和收藏键，可覆盖原站点文件后部署。未添加框架或运行时 CDN。

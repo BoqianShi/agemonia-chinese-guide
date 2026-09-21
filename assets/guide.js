@@ -17,9 +17,72 @@ if('scrollRestoration'in history)history.scrollRestoration='manual';
 window.addEventListener('scroll',()=>{if(idNow()===activeId)positions.set(activeId,window.scrollY)},{passive:true});
 document.addEventListener('click',ev=>{const a=ev.target.closest('a[href^="#"]');if(!a||ev.ctrlKey||ev.metaKey||ev.shiftKey||ev.altKey||ev.button!==0)return;const dest=a.getAttribute('href').slice(1);if(dest==='main-content'){ev.preventDefault();const h=currentPage().querySelector('h1');h?.focus();return}if(!$(dest)?.classList.contains('page'))return;positions.set(activeId,window.scrollY);if(dest===idNow()){ev.preventDefault();window.scrollTo(0,0);currentPage().querySelector('h1')?.focus({preventScroll:true});return}forward=true;internalDepth++});
 for(const b of document.querySelectorAll('.history-back'))b.onclick=()=>{if(internalDepth>0){internalDepth--;history.back()}else{forward=true;location.hash='home'}};
-function route(initial=false){const p=currentPage(),id=p.id;const y=forward||initial?0:(positions.get(id)||0);forward=false;activeId=id;document.title='阿格莫尼亚 · '+p.getAttribute('aria-label');
-for(const a of document.querySelectorAll('.global-nav a')){const to=a.hash.slice(1);let match=id===to||(to==='heroes'&&/^hero-/.test(id))||(to==='professions'&&/^prof-/.test(id));if(match)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current')}
+function route(initial=false){const p=currentPage(),id=p.id;const y=forward||initial?0:(positions.get(id)||0);forward=false;activeId=id;document.title='阿格莫尼亚 · '+p.getAttribute('aria-label');document.body.dataset.route=id;document.getElementById('header-context').textContent=id==='home'?'桌边手册':p.getAttribute('aria-label');
+for(const a of document.querySelectorAll('.global-nav a,.bottom-nav a')){const to=a.hash.slice(1);let match=id===to||(to==='heroes'&&/^hero-/.test(id))||(to==='professions'&&(/^prof-/.test(id)||p.querySelector('.crumb a[href^="#prof-"]')))||(to==='heroes'&&p.querySelector('.crumb a[href^="#hero-"]'))||(to==='items'&&/^(item-|token-|material-|materials$)/.test(id))||(to==='states'&&/^state-/.test(id))||(to==='quick'&&(/^(mechanic-|mechanics$|sources$|source-|upgrade$|rules$|gaps$|audit$)/.test(id)||(a.closest('.bottom-nav')&&/^state/.test(id))||p.querySelector('.crumb a[href="#rules"]')));if(match)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current')}
 requestAnimationFrame(()=>{window.scrollTo(0,y);if(!initial)p.querySelector('h1')?.focus({preventScroll:true})});}
 for(const b of document.querySelectorAll('.zoom-source'))b.onclick=()=>{const frame=b.closest('.page').querySelector('.scan-frame'),on=frame.classList.toggle('zoomed');b.textContent=on?'恢复适合屏幕':'放大原页';b.setAttribute('aria-expanded',String(on));if(on)frame.focus({preventScroll:true})};
 window.addEventListener('hashchange',()=>route());document.body.dataset.enhanced='true';route(true);
 }catch(err){delete document.body.dataset.enhanced;console.error(err)}})();
+
+// Reading controls share the existing text and references; they do not track character builds.
+(()=>{
+'use strict';
+if(!document.body.dataset.enhanced)return;
+for(const tabs of document.querySelectorAll('.career-tabs')){
+ const buttons=[...tabs.querySelectorAll('[role=tab]')];
+ const grid=tabs.nextElementSibling,panels=[...grid.children];
+ function choose(value,focus=false){
+  const selected=buttons.find(b=>b.dataset.career===value);
+  for(const b of buttons){const on=b===selected;b.setAttribute('aria-selected',String(on));b.tabIndex=on?0:-1}
+  panels.forEach((panel,i)=>{panel.hidden=value!=='all'&&value!==String(i)});
+  grid.classList.toggle('single-career',value!=='all');
+  if(focus)selected.focus({preventScroll:true});
+ }
+ for(const b of buttons)b.addEventListener('click',()=>choose(b.dataset.career));
+ tabs.addEventListener('keydown',ev=>{
+  const i=buttons.indexOf(document.activeElement);if(i<0)return;
+  const next=ev.key==='ArrowRight'?(i+1)%buttons.length:ev.key==='ArrowLeft'?(i+buttons.length-1)%buttons.length:ev.key==='Home'?0:ev.key==='End'?buttons.length-1:-1;
+  if(next>=0){ev.preventDefault();choose(buttons[next].dataset.career,true)}
+ });
+ choose(matchMedia('(max-width:700px)').matches?'0':'all');
+}
+let serial=0;
+function closePanel(panel,focus=false){
+ const anchor=panel._trigger;if(anchor){anchor.setAttribute('aria-expanded','false');anchor.removeAttribute('aria-controls');if(focus)anchor.focus({preventScroll:true})}panel.remove();
+}
+document.addEventListener('click',ev=>{
+ const link=ev.target.closest('a.term');
+ if(!link||link.closest('.inline-glossary')||ev.button!==0||ev.ctrlKey||ev.metaKey||ev.shiftKey||ev.altKey)return;
+ const host=link.closest('.entry,.reference-card');
+ const target=document.getElementById(link.hash.slice(1));
+ const card=target?.querySelector('.reference-card');
+ const effect=card?.querySelector('.reference-effect');
+ if(!host||!effect)return;
+ ev.preventDefault();ev.stopPropagation();
+ const existing=host.querySelector('.inline-glossary');
+ if(existing){const same=existing._trigger===link;closePanel(existing);if(same)return}
+ const panel=document.createElement('aside');panel.className='inline-glossary';panel.id='inline-reference-'+(++serial);panel._trigger=link;
+ panel.setAttribute('aria-label',target.querySelector('h1').textContent+'参考');
+ const header=document.createElement('div');header.className='inline-glossary-header';
+ const name=document.createElement('a');name.href=link.hash;name.textContent=target.querySelector('h1').textContent;
+ const close=document.createElement('button');close.type='button';close.className='glossary-close';close.setAttribute('aria-label','收起参考');close.textContent='×';close.onclick=()=>closePanel(panel,true);
+ header.append(name,close);panel.append(header);
+ const icon=card.querySelector('.icon-figure img');if(icon){const img=icon.cloneNode(true);img.loading='eager';panel.append(img)}
+ const cost=card.querySelector('.cost');if(cost)panel.append(cost.cloneNode(true));
+ panel.append(effect.cloneNode(true));
+ const foot=document.createElement('div');foot.className='inline-glossary-footer';
+ const full=document.createElement('a');full.href=link.hash;full.textContent='打开完整条目 ↗';foot.append(full);
+ const sources=document.createElement('span');for(const source of card.querySelectorAll('footer .source-link'))sources.append(source.cloneNode(true));foot.append(sources);panel.append(foot);
+ const paragraph=link.closest('p');
+ if(paragraph&&paragraph.parentElement===host)paragraph.after(panel);else host.append(panel);
+ link.setAttribute('aria-expanded','true');link.setAttribute('aria-controls',panel.id);
+ requestAnimationFrame(()=>{
+  const rect=panel.getBoundingClientRect(),nav=document.querySelector('.bottom-nav');
+  const navHeight=nav&&getComputedStyle(nav).display!=='none'?nav.getBoundingClientRect().height:0;
+  const top=document.querySelector('.shell-head').getBoundingClientRect().bottom+64;
+  const shift=Math.min(Math.max(0,rect.bottom-(innerHeight-navHeight-14)),Math.max(0,rect.top-top));
+  if(shift)window.scrollBy({top:shift,behavior:'instant'});
+ });
+},true);
+document.addEventListener('keydown',ev=>{if(ev.key!=='Escape')return;const panel=document.activeElement.closest('.inline-glossary')||document.querySelector('.page:target .inline-glossary');if(panel){ev.preventDefault();closePanel(panel,true)}});
+})();
