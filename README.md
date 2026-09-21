@@ -24,7 +24,7 @@ GitHub Pages：Settings → Pages → Deploy from a branch → main → / (root)
 
 `index.html` 保存分栏内容与原页引用，`assets/guide.js` 包含搜索索引及交互，`assets/guide.css` 保存样式。修改内容后同步更新搜索索引。
 
-升级入口 `index.html#upgrade` 提供1—5级清单、两书阅读时点、开放式行动槽、各等级专精费用及加入队伍例外。来源、审查范围与更正原因见 [升级规则审查](docs/upgrade-audit.md)。
+升级入口 `index.html#upgrade` 提供1—5级清单、两书阅读时点、开放式行动槽、各等级专精费用及加入队伍例外。
 
 ## 典籍风格试作
 
@@ -44,3 +44,9 @@ GitHub Pages：Settings → Pages → Deploy from a branch → main → / (root)
 - 可用 `node scripts/check_storybook.mjs` 验证索引、图片完整性和已独立核对的跨栏、跨页样本。
 
 故事书与原站规则图示一样，原始文字、美术及相关权利归各自权利人所有。
+
+## 物品仓库
+
+`index.html#items` 默认展示战役初始供应库001–073，支持编号、中英文名称及分类筛选。档案物品通过已知编号或技能／配方引用进入；宠物训练面在详情展开。原卡、中文效果和双向关联保留既有条目地址。
+
+图片位于 `assets/item-cards/`，清单记录实体编号与原图包路径的对应关系。图片源自公开伴侣应用；仅对应已核实的编号，不按文件名推定编号。审查过程文件保留在仓库外。

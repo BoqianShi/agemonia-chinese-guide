@@ -1,0 +1,1319 @@
+{
+  "source": "https://agemonia.app/",
+  "retrievedOn": "2026-09-21",
+  "publicNumbers": "001–073",
+  "cards": [
+    {
+      "number": "001",
+      "name": "盗贼工具",
+      "englishName": "Thieves’ Tools",
+      "images": [
+        {
+          "src": "assets/item-cards/001.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/1.png",
+          "sourceSha256": "792102a38d193e6aa56b430e93c76080461545c7502cb3ade3d6f4d3efa9776c",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "010",
+      "name": "匕首",
+      "englishName": "Dagger",
+      "images": [
+        {
+          "src": "assets/item-cards/010.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/10.png",
+          "sourceSha256": "b9ef1c10ebf4c523472ebaabda416ecb30c59eb824c3ce2e87938dc20a835cfb",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "011",
+      "name": "大剑",
+      "englishName": "Great Sword",
+      "images": [
+        {
+          "src": "assets/item-cards/011.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/11.png",
+          "sourceSha256": "b9a93534f1f86016f19ad83bb6c5781b944809802f4a5554514803600953f2bc",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "012",
+      "name": "长矛",
+      "englishName": "Spear",
+      "images": [
+        {
+          "src": "assets/item-cards/012.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/12.png",
+          "sourceSha256": "a4eb652ba1ecf67e014874a4148a88093db64b7dca7fe527a69db29002c6b1fa",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "129",
+      "name": "艾伊恩的恩赐",
+      "englishName": "Boon of Aiun",
+      "images": [
+        {
+          "src": "assets/item-cards/129.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/126.png",
+          "sourceSha256": "a7a4820a51a8502de8c2f24cfeba4978504ad7f36684f081c4138fc2ff4ca972",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": false
+    },
+    {
+      "number": "013",
+      "name": "奥术魔杖",
+      "englishName": "Arcane Wand",
+      "images": [
+        {
+          "src": "assets/item-cards/013.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/13.png",
+          "sourceSha256": "04fed8ac6457b97d64c9b01ee397a2b803c7e10b2efcc9598ae85a4d97f27d5e",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "135",
+      "name": "纳拉姆",
+      "englishName": "Nalam",
+      "images": [
+        {
+          "src": "assets/item-cards/135.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/132.png",
+          "sourceSha256": "f206486f78f0b8d1184eb0fd0f964a0a2601ee2d017d26263f2c9d9ba67b4d7a",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": false
+    },
+    {
+      "number": "136",
+      "name": "纳拉姆",
+      "englishName": "Nalam",
+      "images": [
+        {
+          "src": "assets/item-cards/136.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/133.png",
+          "sourceSha256": "31aa38742f6310b4be9a709fb72e764d156daf9850dcbec85b4d2f2e8250196f",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": false
+    },
+    {
+      "number": "137",
+      "name": "以太王冠",
+      "englishName": "Ethereal Crown",
+      "images": [
+        {
+          "src": "assets/item-cards/137.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/134.png",
+          "sourceSha256": "6c0df13ec92a22e2c0eec1813b758c98b8cb52c9cce1ceab8825d0d3a10dfcf6",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": false
+    },
+    {
+      "number": "014",
+      "name": "奥术法杖",
+      "englishName": "Arcane Staff",
+      "images": [
+        {
+          "src": "assets/item-cards/014.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/14.png",
+          "sourceSha256": "fd87ff4845563cf6f5ca7aa7e2de320e69dcba90058efc3896ecc06d1ea1506c",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "015",
+      "name": "弓",
+      "englishName": "Bow",
+      "images": [
+        {
+          "src": "assets/item-cards/015.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/15.png",
+          "sourceSha256": "af47c313493b93d0b3d6df4ec3740dca667a3fbef398ffa3715a4558ff3bbee1",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "030",
+      "name": "精工大型背包",
+      "englishName": "Large Backpack",
+      "images": [
+        {
+          "src": "assets/item-cards/030.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/150.png",
+          "sourceSha256": "f26f97f50bb011116deb2d9492e44629a182a394fa52d17f622aaaaed6f1f161",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "016",
+      "name": "长弓",
+      "englishName": "Longbow",
+      "images": [
+        {
+          "src": "assets/item-cards/016.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/16.png",
+          "sourceSha256": "aef2ad11e7cd63d85f594c6fe8c717bb548cd284db9e95c82eceac7de671dcc0",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "017",
+      "name": "皮甲",
+      "englishName": "Leather Armor",
+      "images": [
+        {
+          "src": "assets/item-cards/017.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/17.png",
+          "sourceSha256": "ca824b05ae78d8a28f8619a46e83ff165a87eb7dbf812a7556de328274423a9a",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "018",
+      "name": "木盾",
+      "englishName": "Wooden Shield",
+      "images": [
+        {
+          "src": "assets/item-cards/018.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/18.png",
+          "sourceSha256": "2d1ff12dc2b88e5784f7783936fad7edfaeb9f7ef4f5412392a3bbcfb6adce04",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "019",
+      "name": "头盔",
+      "englishName": "Helmet",
+      "images": [
+        {
+          "src": "assets/item-cards/019.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/19.png",
+          "sourceSha256": "1ca714749b84adb0a31294c8c09e903111ca1ad81f3c9071cc98d456543e365b",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "002",
+      "name": "火把",
+      "englishName": "Torch",
+      "images": [
+        {
+          "src": "assets/item-cards/002.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/2.png",
+          "sourceSha256": "d632ebb52778bd1e47609a620495df0e69f229b7b19730e0b0012a00330ebfc0",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "020",
+      "name": "金属护盾",
+      "englishName": "Metal Shield",
+      "images": [
+        {
+          "src": "assets/item-cards/020.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/20.png",
+          "sourceSha256": "5c9a4478ae2d2308716d07699232ffa4e182cb5578195277e92b2898598f7e49",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "021",
+      "name": "圆盾",
+      "englishName": "Buckler",
+      "images": [
+        {
+          "src": "assets/item-cards/021.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/21.png",
+          "sourceSha256": "61673ef2fecabce3d5b88bd8947bd7798c6f84844d37c6e94e44b7bbaaac1d77",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "022",
+      "name": "条板甲",
+      "englishName": "Splint Mail",
+      "images": [
+        {
+          "src": "assets/item-cards/022.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/22.png",
+          "sourceSha256": "3752e5850a5b193e3a8d8fe013dffeb61c6709a0be1be09faff8f0a30389489f",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "023",
+      "name": "大型金属护盾",
+      "englishName": "Large Metal Shield",
+      "images": [
+        {
+          "src": "assets/item-cards/023.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/23.png",
+          "sourceSha256": "d29c731ccd43e3eb2e2147a464748ad8e12c385887583fdd9f08f6e83befb802",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "024",
+      "name": "全身板甲",
+      "englishName": "Plate Mail",
+      "images": [
+        {
+          "src": "assets/item-cards/024.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/24.png",
+          "sourceSha256": "9c9bc3eaaf36c27756bdea7f9fdb8342f6098b40f9cc74560c6424c8187952a5",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "025",
+      "name": "小型背包",
+      "englishName": "Small Backpack",
+      "images": [
+        {
+          "src": "assets/item-cards/025.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/25.png",
+          "sourceSha256": "edc9b99199cb1f7970e1a8df405242814fefc838018eccda2a8b878288e24215",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "026",
+      "name": "精工小型背包",
+      "englishName": "Small Backpack",
+      "images": [
+        {
+          "src": "assets/item-cards/026.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/26.png",
+          "sourceSha256": "aab38363cc0bf186d8b6480bb6e79474194b5ea3333c51240b1aa9f6f2bd91ae",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "027",
+      "name": "中型背包",
+      "englishName": "Medium Backpack",
+      "images": [
+        {
+          "src": "assets/item-cards/027.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/27.png",
+          "sourceSha256": "6addaee1c9cf24bf7d4cc42d8059a0a025e8cd8680d46e00af0d59ccb7731281",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "028",
+      "name": "精工中型背包",
+      "englishName": "Medium Backpack",
+      "images": [
+        {
+          "src": "assets/item-cards/028.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/28.png",
+          "sourceSha256": "5a9fd904e8c45dff28e43f6d0986eaa24962b769d61b1fd16ae65976ba6e430f",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "029",
+      "name": "大型背包",
+      "englishName": "Large Backpack",
+      "images": [
+        {
+          "src": "assets/item-cards/029.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/29.png",
+          "sourceSha256": "52eb135504ab318b163905876f8b85666b825389ab06f1dcf2142d53bdad21b8",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "003",
+      "name": "镐",
+      "englishName": "Pickaxe",
+      "images": [
+        {
+          "src": "assets/item-cards/003.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/3.png",
+          "sourceSha256": "ae1b87041384566f5ef6388f1ada2cd7c59c53ecf3c2279e94e148f17692e30b",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "031",
+      "name": "耐力药剂",
+      "englishName": "Potion of Stamina",
+      "images": [
+        {
+          "src": "assets/item-cards/031.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/30.png",
+          "sourceSha256": "e1dcb5b3c273be8c36abe569de648251bde046fce2f21a3bb79183e86f4b1611",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "032",
+      "name": "治疗药剂",
+      "englishName": "Potion of Healing",
+      "images": [
+        {
+          "src": "assets/item-cards/032.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/31.png",
+          "sourceSha256": "035823dbe72842efde66275f2f3a75be0517149fb0fdb29ce90339b1b3f939f1",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "033",
+      "name": "治疗灵药",
+      "englishName": "Elixir of Healing",
+      "images": [
+        {
+          "src": "assets/item-cards/033.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/32.png",
+          "sourceSha256": "a0ae2c7f858ba147bdfb61726e983970893499a8d0906cfa546640e8de5e244e",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "034",
+      "name": "琉华兽之跃灵药",
+      "englishName": "Luawa’s Leap Elixir",
+      "images": [
+        {
+          "src": "assets/item-cards/034.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/33.png",
+          "sourceSha256": "1ac9edbd8df205931bfbaa2e44adead0e183d1c6030da56207bf7696d23b77bd",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "035",
+      "name": "捷足灵药",
+      "englishName": "Fleetfoot Elixir",
+      "images": [
+        {
+          "src": "assets/item-cards/035.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/34.png",
+          "sourceSha256": "3233245898995e4283b04a8389ce963eca5302b1a73cbee6715205fcae4e07b1",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "036",
+      "name": "驼格尔之力灵药",
+      "englishName": "Togrel’s Brawn Elixir",
+      "images": [
+        {
+          "src": "assets/item-cards/036.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/35.png",
+          "sourceSha256": "487faa135caa46132b184fdb0c3799ca82f87d4f976c37cf2df134d51792fea0",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "037",
+      "name": "绯嘶翼龙之雅灵药",
+      "englishName": "Vespir’s Grace Elixir",
+      "images": [
+        {
+          "src": "assets/item-cards/037.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/36.png",
+          "sourceSha256": "7d2f6545e840a4db0fe6526fababedb0b6773a42103631a27643689b680d612d",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "038",
+      "name": "佑福金蝶之心灵药",
+      "englishName": "Ophira’s Mind Elixir",
+      "images": [
+        {
+          "src": "assets/item-cards/038.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/37.png",
+          "sourceSha256": "5bd197db9811442f430246a4f795cee4be139db8e716846691945a4977c15b1f",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "039",
+      "name": "帷幕饮剂",
+      "englishName": "Draught of Veils",
+      "images": [
+        {
+          "src": "assets/item-cards/039.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/38.png",
+          "sourceSha256": "6ec85c2434a1bcc29a94c4cf3f0adae001ea2281ebb7be597299b70a7e1b1999",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "040",
+      "name": "念动卷轴",
+      "englishName": "Scroll of Telekinesis",
+      "images": [
+        {
+          "src": "assets/item-cards/040.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/39.png",
+          "sourceSha256": "08f7675ea38dc79e938704a75d4b00ebdf48772aecae531c64da3fb9f38ead21",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "004",
+      "name": "手斧",
+      "englishName": "Hand Axe",
+      "images": [
+        {
+          "src": "assets/item-cards/004.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/4.png",
+          "sourceSha256": "82f0c8f21ab43e0e7c2f2b18df9cb6ef361f866ceb7c95d1d440e503c5ddb8e0",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "041",
+      "name": "次级治疗卷轴",
+      "englishName": "Scroll of Minor Heal",
+      "images": [
+        {
+          "src": "assets/item-cards/041.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/40.png",
+          "sourceSha256": "e9e29882bd322721eeb842cf608fe0fe0e4a1eb371dbe07044ede3207190fdfc",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "042",
+      "name": "倦怠卷轴",
+      "englishName": "Scroll of Lethargy",
+      "images": [
+        {
+          "src": "assets/item-cards/042.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/41.png",
+          "sourceSha256": "bc0948ee5333374af28403c5cacfd0dffa6eb95362708699b87c7037ebd5311b",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "043",
+      "name": "耐力卷轴",
+      "englishName": "Scroll of Stamina",
+      "images": [
+        {
+          "src": "assets/item-cards/043.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/42.png",
+          "sourceSha256": "ee4e3110027013ea902dd81341a575b16d8868e2d93eac19bd8fbb5f089b78e1",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "044",
+      "name": "治疗卷轴",
+      "englishName": "Scroll of Healing",
+      "images": [
+        {
+          "src": "assets/item-cards/044.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/43.png",
+          "sourceSha256": "fa2d3983ff2b383f2774a1cac4050ee197a041da0b3284f7f2b6c204e1b72200",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "045",
+      "name": "放逐卷轴",
+      "englishName": "Scroll of Banishment",
+      "images": [
+        {
+          "src": "assets/item-cards/045.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/44.png",
+          "sourceSha256": "ae122c269ab26f7894342190dbae626f5981529f9e0e9bb9ad3aad616f146a70",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "046",
+      "name": "强效治疗卷轴",
+      "englishName": "Scroll of Major Heal",
+      "images": [
+        {
+          "src": "assets/item-cards/046.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/45.png",
+          "sourceSha256": "027af1004a76538d2ca91aa5890d13ecd246a2b0e39102d34015352f58e18e91",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "047",
+      "name": "召唤卷轴",
+      "englishName": "Scroll of Summoning",
+      "images": [
+        {
+          "src": "assets/item-cards/047.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/46.png",
+          "sourceSha256": "a242ea312c0b79d39e8590d811bcdab2c05cbf3f8e26f9fbef7c83206f3bf224",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "048",
+      "name": "复活卷轴",
+      "englishName": "Scroll of Resurrection",
+      "images": [
+        {
+          "src": "assets/item-cards/048.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/47.png",
+          "sourceSha256": "53d9dfabf4e201b6916d5f16ed99d335f1831a7729d46c05ec3b9462def8ee4b",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "049",
+      "name": "传送魔方",
+      "englishName": "Cube of Teleportation",
+      "images": [
+        {
+          "src": "assets/item-cards/049.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/48.png",
+          "sourceSha256": "bc813ea3cef721f1534f00e474655f7ae65853ca05cb77f3f82d23767af22e1b",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "050",
+      "name": "湮灭魔方",
+      "englishName": "Cube of Annihilation",
+      "images": [
+        {
+          "src": "assets/item-cards/050.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/49.png",
+          "sourceSha256": "0f73b99e972ad8b7fad38fcd338969a495672b1dfbea1419aefe269ec120c926",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "005",
+      "name": "铲子",
+      "englishName": "Shovel",
+      "images": [
+        {
+          "src": "assets/item-cards/005.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/5.png",
+          "sourceSha256": "4457bbf828c664af10c943ec6a94894f00a5de82d3923247297b6224823a7e9c",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "051",
+      "name": "虹光珠宝",
+      "englishName": "Prismatic Jewel",
+      "images": [
+        {
+          "src": "assets/item-cards/051.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/50.png",
+          "sourceSha256": "17bf75e3386bc9b85b773d8ba9393a1ebdbcfa589116cc7cf95fb7f03fffaf17",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "052",
+      "name": "翠玉雕像",
+      "englishName": "Jade Figurine",
+      "images": [
+        {
+          "src": "assets/item-cards/052.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/51.png",
+          "sourceSha256": "a84a32db099856ba6246ae71e918b7fa66448b4495813923d78d94d830e30785",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "053",
+      "name": "黑曜石雕像",
+      "englishName": "Obsidian Figurine",
+      "images": [
+        {
+          "src": "assets/item-cards/053.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/52.png",
+          "sourceSha256": "6a48c58b54b3869069f2d9b0ec770c11387ab10697409a8edf02b26418848f82",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "054",
+      "name": "蟒蛇符文",
+      "englishName": "Rune of the Snake",
+      "images": [
+        {
+          "src": "assets/item-cards/054.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/53.png",
+          "sourceSha256": "fe61dddce33a5e705080d9c9ad8b17ea9fd5aa0d1488d46f61702d00c149b93f",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "055",
+      "name": "野兽符文",
+      "englishName": "Rune of the Beast",
+      "images": [
+        {
+          "src": "assets/item-cards/055.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/54.png",
+          "sourceSha256": "6c0ba897e04c099762d824428d3706dbfc867732db59b890dcaad1840c7225d3",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "056",
+      "name": "蜘蛛符文",
+      "englishName": "Rune of the Spider",
+      "images": [
+        {
+          "src": "assets/item-cards/056.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/55.png",
+          "sourceSha256": "b72dd7e2676e00824dd17fd5a442929da797755b579b76becb3084538a69d9bf",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "057",
+      "name": "大树符文",
+      "englishName": "Rune of the Tree",
+      "images": [
+        {
+          "src": "assets/item-cards/057.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/56.png",
+          "sourceSha256": "c5ae5ad863c3e726c441323dad0614e5f2096bfc9e0b3bc8640fc9164e565b4f",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "058",
+      "name": "双月符文",
+      "englishName": "Rune of the Moons",
+      "images": [
+        {
+          "src": "assets/item-cards/058.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/57.png",
+          "sourceSha256": "dc35b57a8f985cd17c341a68cbaa4aeb0e39c76b48a730ef3d869e1f2b1c5633",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "059",
+      "name": "星辰符文",
+      "englishName": "Rune of the Star",
+      "images": [
+        {
+          "src": "assets/item-cards/059.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/58.png",
+          "sourceSha256": "e37d59edf3d478a3f4f4ef1bc500be276252fccecd0076890d760afb2b2d085d",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "060",
+      "name": "鹰眼箭",
+      "englishName": "Keeneye Arrow",
+      "images": [
+        {
+          "src": "assets/item-cards/060.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/59.png",
+          "sourceSha256": "337fd1323c6692faff1e7ed5c9d89b00c85dc07a3e5898cc196861d7d3108a23",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "006",
+      "name": "钩索",
+      "englishName": "Hook & Rope",
+      "images": [
+        {
+          "src": "assets/item-cards/006.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/6.png",
+          "sourceSha256": "5969b39ebd7ce76e86bf2f5103edc46da954d5add3ae361175886ad076b9cc30",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "062",
+      "name": "火焰箭",
+      "englishName": "Flame Arrow",
+      "images": [
+        {
+          "src": "assets/item-cards/062.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/60.png",
+          "sourceSha256": "3c0705a179e32597cede3f42f459ef24485c54023041338c59146d3d9671bab7",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "061",
+      "name": "腐蚀箭",
+      "englishName": "Corrosive Arrow",
+      "images": [
+        {
+          "src": "assets/item-cards/061.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/61.png",
+          "sourceSha256": "1eaf5a8cae455787d1b05f680b19014d47f78059874a5a46837c3bf2768ad3ef",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "064",
+      "name": "觅心箭",
+      "englishName": "Heartseeker Arrow",
+      "images": [
+        {
+          "src": "assets/item-cards/064.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/62.png",
+          "sourceSha256": "d85c7c59ec803b25d6244882c40ed37877bdf27fdb1cc0211ed821bd33a7a839",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "065",
+      "name": "蛇根汁液",
+      "englishName": "Snakeroot Sap",
+      "images": [
+        {
+          "src": "assets/item-cards/065.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/63.png",
+          "sourceSha256": "c73d3c3f1500de2cce8b6c81deb634399e802755b30ae08afe295fb26279e171",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "066",
+      "name": "贝纳海德拉之灾",
+      "englishName": "Benaethid Bane",
+      "images": [
+        {
+          "src": "assets/item-cards/066.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/64.png",
+          "sourceSha256": "1a73b835b738678f7c165801bff68015cd0b233b50d6b9bf527ef980f0f8ea5b",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "067",
+      "name": "纳煞蛊虫毒液",
+      "englishName": "Nazag Venom",
+      "images": [
+        {
+          "src": "assets/item-cards/067.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/65.png",
+          "sourceSha256": "3dc0c07d458b20bac80020d883f853d9ea3bf7bb77382c9c9011ed6035003002",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "068",
+      "name": "虚空提取物",
+      "englishName": "Void Extract",
+      "images": [
+        {
+          "src": "assets/item-cards/068.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/66.png",
+          "sourceSha256": "f7220f026226d35ffff97d714b4b875fb4be32f5c79231f39da06d6bfcdb15de",
+          "width": 332,
+          "height": 512
+        },
+        {
+          "src": "assets/item-cards/068-2.webp",
+          "label": "另一版本（原图包）",
+          "sourceFile": "items-en/Agemonia_Item-cards_FRONT_2022-10-27121.png",
+          "sourceSha256": "8d256ff33bcf5891a14a1b61c0485fe5483b4274d323453dd5a533087fbcbe7a",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "069",
+      "name": "觅奇兽",
+      "englishName": "Gric",
+      "images": [
+        {
+          "src": "assets/item-cards/069.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/67.png",
+          "sourceSha256": "d3336c5408e649637ab02179de027d5a737bec2a07d64a1e164f149e4fe1ad21",
+          "width": 332,
+          "height": 512
+        },
+        {
+          "src": "assets/item-cards/069-2.webp",
+          "label": "训练面",
+          "sourceFile": "items-en/67b.png",
+          "sourceSha256": "b549469e59144731fc66a5fa4f48615ac34f952e2bf632443c86eb3a7d9651b1",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "070",
+      "name": "琉华兽",
+      "englishName": "Luawa",
+      "images": [
+        {
+          "src": "assets/item-cards/070.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/68.png",
+          "sourceSha256": "206e6301cafacb7624af997411bb23758cf7c4a169cf29a0d540453d7354da97",
+          "width": 332,
+          "height": 512
+        },
+        {
+          "src": "assets/item-cards/070-2.webp",
+          "label": "训练面",
+          "sourceFile": "items-en/68b.png",
+          "sourceSha256": "ad2ad3b7bca64568847a8515625ca1a7ba9226583c8bcb0d9de1fa05e2e42036",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "071",
+      "name": "纳煞蛊虫",
+      "englishName": "Nazag",
+      "images": [
+        {
+          "src": "assets/item-cards/071.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/69.png",
+          "sourceSha256": "219e73bf29eae5be1f1bef11da64fbc549d232bd130f43b11f130da889f8b120",
+          "width": 332,
+          "height": 512
+        },
+        {
+          "src": "assets/item-cards/071-2.webp",
+          "label": "训练面",
+          "sourceFile": "items-en/69b.png",
+          "sourceSha256": "348e951b439ca124af1a5df28e9ad98a953c5f0463dcc39db138f77f82f043c2",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "007",
+      "name": "撬棍",
+      "englishName": "Crowbar",
+      "images": [
+        {
+          "src": "assets/item-cards/007.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/7.png",
+          "sourceSha256": "0515ef5e4a1f6a9c4fad6ad3029fe488afb848d9345a991a2ded8851d8aa27da",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "072",
+      "name": "佑福金蝶",
+      "englishName": "Ophira",
+      "images": [
+        {
+          "src": "assets/item-cards/072.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/70.png",
+          "sourceSha256": "e011868ecfb75008021fac11fa7af22fe67c2d9d6462016e58814b8fe23a8310",
+          "width": 332,
+          "height": 512
+        },
+        {
+          "src": "assets/item-cards/072-2.webp",
+          "label": "训练面",
+          "sourceFile": "items-en/70b.png",
+          "sourceSha256": "e30933a7dfaf81b9b1cbb9c134933066b34871b7574043989c06b565ac9ccc2e",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "073",
+      "name": "艾恩兽",
+      "englishName": "Aiunin",
+      "images": [
+        {
+          "src": "assets/item-cards/073.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/71.png",
+          "sourceSha256": "0db98f3e56dddc6bd12902b3fe9b216a2df1c80bf4a54c7f2526ca86655589e2",
+          "width": 332,
+          "height": 512
+        },
+        {
+          "src": "assets/item-cards/073-2.webp",
+          "label": "训练面",
+          "sourceFile": "items-en/71b.png",
+          "sourceSha256": "66995f65210b8d0a62821f74400262db3f7d164b519df8c1b892b44ca3658be7",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "080",
+      "name": "库提鸦短刃",
+      "englishName": "Quothian Dirk",
+      "images": [
+        {
+          "src": "assets/item-cards/080.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/78.png",
+          "sourceSha256": "0abab648f7e8565cb5e2e15de4f387b708b69008687d2c1f08a14f871d940aad",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": false
+    },
+    {
+      "number": "081",
+      "name": "艾蒂之泪",
+      "englishName": "Tear of Eti",
+      "images": [
+        {
+          "src": "assets/item-cards/081.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/79.png",
+          "sourceSha256": "2df9c3dd12a3bbae924e87a7552da8c998a231f71b8b81f3040e69df05940911",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": false
+    },
+    {
+      "number": "008",
+      "name": "巨斧",
+      "englishName": "Great Axe",
+      "images": [
+        {
+          "src": "assets/item-cards/008.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/8.png",
+          "sourceSha256": "3a1d7415962cddb5eaeb022abbec9d5daa239818e37aa85e245ec1d1ef7826b2",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "009",
+      "name": "剑",
+      "englishName": "Sword",
+      "images": [
+        {
+          "src": "assets/item-cards/009.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/9.png",
+          "sourceSha256": "9e7a06d2e39e91155ff39e65197d4923541ce25a84f9433aace27e573c234585",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    },
+    {
+      "number": "063",
+      "name": "冰霜箭",
+      "englishName": "Frost Arrow",
+      "images": [
+        {
+          "src": "assets/item-cards/063.webp",
+          "label": "原卡正面",
+          "sourceFile": "items-en/Agemonia_Item-cards_FRONT_2022-10-27113.png",
+          "sourceSha256": "ccd79e5b900bc2bf462e89f00f697f75ab5f46d6744880201f9e75bdd689efca",
+          "width": 332,
+          "height": 512
+        }
+      ],
+      "public": true
+    }
+  ]
+}
