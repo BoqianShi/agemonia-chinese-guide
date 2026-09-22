@@ -1,0 +1,1688 @@
+{
+  "source": "https://agemonia.app/",
+  "retrievedOn": "2026-09-21",
+  "images": [
+    {
+      "src": "assets/library-cards/appendix-1.webp",
+      "sourceFile": "extracted/images/shared_assets_all/Artwork/Point of Interests/Item Cards/1Agemonia_Item-cards_PLACEHOLDER.png",
+      "sha256": "d5be9eb66f261e9605e8e6c7e72d764cd66a4fd5d74ef984bce60bdf6cd6def6",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/appendix-2.webp",
+      "sourceFile": "extracted/images/uibuttons_assets_all/Artwork/Scenarios/Cards/ScenarioBG_ City.png",
+      "sha256": "8b7b4a5d53ea3fb04033c0d1677321cbb6ee402f07c377f513c70a338fb92775",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/appendix-3.webp",
+      "sourceFile": "extracted/images/uibuttons_assets_all/Artwork/Scenarios/Cards/ScenarioBG_World.png",
+      "sha256": "ad548e7a2b05287f7c5a6e29c8e3eff25279aab763cc7148e388bdc94d85878c",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/appendix-4.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Magic.png",
+      "sha256": "94b72b936c3dee98c567ed527cf6e71dcbff24cddcd54838cb7cd490f2529bc3",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/appendix-5.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Money.png",
+      "sha256": "06c1a99bd71cf967f6187d1e70ab24ca15a1d889d88a2e856b8e3fccd6f33108",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/appendix-6.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Pet.png",
+      "sha256": "0b885d2e6b6103c422c3a8b1b734a9f4c542ff71650938519e24213f4f5b1e20",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/appendix-7.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Poison.png",
+      "sha256": "c875247152c4706226889e00463cd3495b0e4a57027fcaea9c185e889387848f",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/appendix-8.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Potion.png",
+      "sha256": "4a1735553c2023dd4fe466995522145a3ec568a52ceca75f4f6efe00abed6be0",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/appendix-9.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Runes.png",
+      "sha256": "cff413a52229966181fadc6da612e4f34ccae868547a09a8c6ea63fc1e0a0a3a",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/appendix-10.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Scrolls.png",
+      "sha256": "8250726c58d8c95523f3694e48330fb0adf3967fc0c652b1b516de800b52428c",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/reference-city-journey-zh.webp",
+      "sourceFile": "extracted/images/locationscenes_scenes_all/_embedded/reference_city_step_for_app_zh-6.png",
+      "sha256": "e4bf085f2284336153260b99bce2dee92e604ae490452c398de6257d2c956a77",
+      "width": 2048,
+      "height": 1200
+    },
+    {
+      "src": "assets/library-cards/reference-city-journey-en.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/UI/Shop/reference_city_step_for_app.png",
+      "sha256": "b036a7b0d842ded5874f5fdc7c7c8c9f6971ca7e3b6ab9a70456dfcc8700179b",
+      "width": 2048,
+      "height": 1200
+    },
+    {
+      "src": "assets/library-cards/reference-scenario-zh.webp",
+      "sourceFile": "extracted/images/locationscenes_scenes_all/_embedded/scenario_step_zh-12.png",
+      "sha256": "eb53765345a74635398035c53a79ebd24abc9a307bc2857b88c6f24d3d4652d8",
+      "width": 2048,
+      "height": 1065
+    },
+    {
+      "src": "assets/library-cards/reference-scenario-en.webp",
+      "sourceFile": "extracted/images/locationscenes_scenes_all/_embedded/scenario_step-8.png",
+      "sha256": "035d2d0062a6960e998611f0a359452b6490d0352693884cddcbbe8010767be8",
+      "width": 2048,
+      "height": 1065
+    },
+    {
+      "src": "assets/library-cards/token-0-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Blightcap.png",
+      "sha256": "48cc9d6257c256e41a0f2a95834bf08f1a125622dac64ad56568ddc89ffe287b",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-0-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Blightcap.png",
+      "sha256": "452a0b252075c4e5876c7f643de4cddd87c5d1aeb9c556d982e11ca99f485b95",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-1-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Snakeroot.png",
+      "sha256": "8afd60fe1758f524c6806c8bb462537bb1494a0f92810db198ccee70761afbe0",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-1-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Snakeroot.png",
+      "sha256": "1599d1cad37b17b7c83d4152ab3faab620f593d6ce68799814fecddac3bc8d5a",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-2-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Star Lotus.png",
+      "sha256": "1cdeeb09e4f7623330b11485fc6b2f0d6838222ef2ff5f54c091f461dca1faf4",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-2-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Star Lotus.png",
+      "sha256": "b424a6ca64e8f1036055f0511f36383a1efde51b75bdbdf6ae86e9edd0c08f21",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-3-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Togsbane.png",
+      "sha256": "6bf4b8f091fbacdf5a4dff0668f31c6b281e7f8dbc408b1971a670f927c88dc7",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-3-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Togsbane.png",
+      "sha256": "945bacefca66ee3d95e14400eb7d6cdb42def2d69c621327fc6f6accb71cfd2a",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-4-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Voidbloom.png",
+      "sha256": "c9380a6b22a9275c0406b8cb110af469e3297586ce8cf56262a9287a24634dd0",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-4-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Voidbloom.png",
+      "sha256": "169fafe833f6470137f214aca43aa21b41e2ecd74fc0865223fde0ad1c5ae80f",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-5-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Wormweed.png",
+      "sha256": "6812746b74bb17b39db577fce6261c84500b7d695db7e78e7ddfe7d69c72bfe1",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-5-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Wormweed.png",
+      "sha256": "7d8ecff1790b9a863cf469aff60780cca887b1bfd72b0a6b7cac795481dad1e8",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-6-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Aox Amulet.png",
+      "sha256": "3db6c38524a5a961f9a4a7e18abdaaeff6a8acffe923be5138e6dcbcd406a018",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-6-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Aox Amulet.png",
+      "sha256": "442ba1372de7757be2fa29704f8bcc7220bce3f4144b80bac58e42a6121bbec2",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-7-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Bile.png",
+      "sha256": "a4595784b1f745a6097bc7819f086f73c2a0b85ea7599ba62017ac7cfd10161a",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-7-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Bile.png",
+      "sha256": "06ed7eced86be0cb39dbb94ace2a38e8a7b6b708bf8bcbe6693bdefc4bdf1085",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-8-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Ghost Lichen.png",
+      "sha256": "d6e984825410bce94919661b3804d08b33347a649c719acc8af8ced7d69d48d3",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-8-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Ghost Lichen.png",
+      "sha256": "7fce24b4a33036fc81cdedbc02bfc6eb5891fb4496cfc33ba5ddb6a37e83cb7d",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-9-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Blood Crystal.png",
+      "sha256": "4bbfcf334311451276632e80dc2ff2e12c921050e1fd239dccca4ead7bc6d994",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-9-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Blood Crystal.png",
+      "sha256": "1dadd8bc0792373a88b311c70851b3f94d0e0018b8d263d8ed05942446d2c7bf",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-10-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Runic bone.png",
+      "sha256": "7da189da8a6b03942ef3c39155153fb528bbc08a594dca6c95360664f76594e0",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-10-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Runic bone.png",
+      "sha256": "6e9f60e2f699ed880e1f244df09dbc87cb97ae1d85f8924ef922cc4b09d71adb",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-11-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Spark.png",
+      "sha256": "bfe3c83b094efa86f28c890bc3172fe462f61e12215e478817def15966bef801",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-11-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Spark.png",
+      "sha256": "54d19a3d5b473a8318395ea9589723c902e308e274c3f96d44552ea9de74da5c",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-12-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Demon eye.png",
+      "sha256": "ac68a9e63b615b1bcdbab085529982e672b337105f66bec433a8a561d8b7e985",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-12-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Demon eye.png",
+      "sha256": "9c419e57a12742369338fa2951056480d935d3c5de6a6fad1208a0dea86c5418",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-75-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Lanium ore.png",
+      "sha256": "130157ef94c82c276a8cfc679e1c2142e5a28134c03c90a69215c07fe5111704",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-75-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Lanium ore.png",
+      "sha256": "04d5b463779b2d38fb21037f20d83850643d0f9a116fb487acf9cb162db36af4",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-76-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Scrap metal.png",
+      "sha256": "6e7ef072bab2297fec6978e15763f92b6dda3cf7706cc9dbeed663aa34b2e7cc",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-76-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Scrap metal.png",
+      "sha256": "2b889da5c3f286fcc25e34c713e7b774601b2f5226a8f8e65a6b67b0af1b8d9b",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-77-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Lanium Bar.png",
+      "sha256": "8e9890bfe4d5aba43a10d9bfb6c52dd3102792029fe7bcca9538a06f6e60ae40",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-77-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Lanium Bar.png",
+      "sha256": "7424c5406eecd83984025eb0744d40bc55ddfeab19635014b83a674a47a33c1f",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-78-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Magic essence.png",
+      "sha256": "edcdacbd8c80a8218f53a830738fbae10b58f78c2b303543e082f9d523018b0f",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-78-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Magic essence.png",
+      "sha256": "e54aa00fe964e3ab2a289649a230a5e1b1902c3aacdcebcbb00c4ed7c0df1372",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-79-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Moonsilver ore.png",
+      "sha256": "96c71deefca1791677f78c8babeab148af14343ba9b56a45f1e70e89fbb3e296",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-79-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Moonsilver ore.png",
+      "sha256": "0cb002eae5ee3d2ea8d428b9877dadebc7a1778ca4e273a6fe9f0518b4fa1e29",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-80-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Nature essence.png",
+      "sha256": "bb3463db0bd98ba94059b394749cdc7e7dba6e5b2e139d93179184b292aa11c2",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-80-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Nature essence.png",
+      "sha256": "d9ef4f44d2f07bb6f2c0be264107b1b45535ee611a7ed366ff0baf5e1f92b37b",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-81-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Silk.png",
+      "sha256": "862c0fb6e58f565df13aa03c7b2fe3a03dc18279223cf561a132ef8c3f11c01a",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-81-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Silk.png",
+      "sha256": "0dbc3aeef3d62a8c6d726142432a0c3a2d6bc4fd13092d2766d40bed3123d885",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-82-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Agura Crystal.png",
+      "sha256": "09328731536651eaa274b14211f2225ddbb3ed49a85dc8ae1f5db21972c147e9",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-82-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Agura Crystal.png",
+      "sha256": "216b40ba5c6148b5212b32807dd7de0ff117f58f153773bd54bae8e75c02898b",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-83-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Death Essence.png",
+      "sha256": "82d6ab902c3c234a5c0bb005f71d76b568b6fd10617960bdf43824441629c9f2",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-83-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Death Essence.png",
+      "sha256": "724b995c3233e69f10da742f7a738c6e6c4b635d31eff3fb5e22ffc54cfd7548",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-84-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Elemental Jade.png",
+      "sha256": "66dca0cfafd73898f805b4aefc37dc781806b79692ac10e75f76dc9f712b3721",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-84-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Elemental Jade.png",
+      "sha256": "0021711eaa6c96f2c84fdfc0bca9f4b636a30bee5b5e1a2121f349d1458afecd",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-85-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Embroidered Silk.png",
+      "sha256": "f3068761df433f526a9b8b02e8c143cad23e38f12e43e0db8ff9018ce2d39c43",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-85-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Embroidered Silk.png",
+      "sha256": "642d00cef31f3ba113338db09a2fc387e41c5286f3391b6f88ca2405d640b4b5",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-86-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Life essence.png",
+      "sha256": "ce8d4e17d2ded0390a479c4a8c76b84518b31402b6cee856c83b45fa381f5f6b",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-86-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Life essence.png",
+      "sha256": "7330f75b54a67b2c1bd0a9e0b78ae6545db3087b3b8b7bc42ce0cdb1a22533b2",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-87-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Moonsilver Bar.png",
+      "sha256": "7f6c1ecb26897b8664eb6ecef0bd266e4e9b904bb482db8740ea6105f7961d22",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-87-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Moonsilver Bar.png",
+      "sha256": "d8a56435d652d89a08c1edcc84ac4bed6f8802426e131d7e209fcdb61599b53c",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-88-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Enchanted Silk.png",
+      "sha256": "d4b386e47b2f5e85cef52cbb88a0077776a559c4320df3499e2683e8a817e4a9",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-88-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Enchanted Silk.png",
+      "sha256": "afb2ca10e3beda0ced233186eb692abc293fe55235e46318c1325f6b08b4faff",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-89-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Runic Quartz.png",
+      "sha256": "2bdb25f09f9de2d2673767c3e200beb5fe3610790db23c5dc381d2e3af31ecdf",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/material-89-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Runic Quartz.png",
+      "sha256": "f1ea5748ad20b26c2e1a86f5e906b80c352781e68dea22412c8b0fbb7493a887",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-bitajin-amulet-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Bitajin Amulet.png",
+      "sha256": "3c173b5875279d0b6ea934f3b6eafee265e6c6328c9e98abf97dc573840b172e",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-bitajin-amulet-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Bitajin Amulet.png",
+      "sha256": "e67459697ba5f23d5051882ffa51e7ad084c18211b7c6c88d894d02a36588c49",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-gleamroot-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Gleamroot.png",
+      "sha256": "2ae79cb46433d736879eccd85bc27363bf4ec948dd0f03412f405a04c310cdca",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-gleamroot-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Gleamroot.png",
+      "sha256": "8cef39264c0ced86e2150ac4478744f2241ee1cea024706de693c496c8b96199",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-moonegg-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Moonegg.png",
+      "sha256": "e537237fa26650f5a3b0ea3298d96bec85a158c72225a5e2ba3f6911d1dfff59",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-moonegg-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Moonegg.png",
+      "sha256": "115aac4c1e77bd5c1da5ba1bd2a8b9581f75af55a08f4bda2c06ae08f72c1c69",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-elemental-gem-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Elemental gem.png",
+      "sha256": "d3b77646be0a9696ac3c06d739dab67d993fd9286bfb32dd31411c58c4617ebf",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-elemental-gem-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Elemental gem.png",
+      "sha256": "26ce30ccc0a26f033311ac5525b02f50662c52484d3db89409e16bbbb5bd99ea",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-serupod-sucker-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Serupod tentacle.png",
+      "sha256": "a3e34c0c59d4d8e582007a5914c4850178f76e160ae007eaabc85040dd140421",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-serupod-sucker-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Serupod tentacle.png",
+      "sha256": "99172f234d3fff38ea7ee0f945ceb4a495ec338a8c79ec9ae92517f13c52c3fe",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-blood-ruby-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Blood Ruby.png",
+      "sha256": "fe1d7061ed7af74f728c835a1d40ace53b0d27f631643a0b335dcb616493ffe6",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-blood-ruby-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Blood Ruby.png",
+      "sha256": "f80d8ccdcd30c98f1e1e156d006a47856deb7c976336d570c68f80230833889a",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-runic-diamond-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Runic Diamond.png",
+      "sha256": "4437b90beeb242ff5e8b330182c67c9b1ff17cbb6b0517188939270d44c247fa",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-runic-diamond-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Runic Diamond.png",
+      "sha256": "a9486368dbc60811836a25b59c94334af4c60b1fe86df9e9325b960343728d36",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-blood-shard-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Blood Shard.png",
+      "sha256": "0c26af384fe45ec485338f5ab5119d0c07f44182ea9abbc414bbe7ea9a8013ea",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/token-blood-shard-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Blood Shard.png",
+      "sha256": "30614c145eb91541532c4415912bc5a1e2241d549d9761135221c6e42e5e48e5",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-bonesmoke-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Bonesmoke.png",
+      "sha256": "a0d94660a0695bb6ca6cbe0a9e47fca4f47d8bf91b25270556addf1362ac36d6",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-bonesmoke-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Bonesmoke.png",
+      "sha256": "327938290bd77fa3767927434f3c05749381fb757de0a13afb28009224694029",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-dream-egg-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Dream Egg.png",
+      "sha256": "776ae46cc1235ff8d5578638dc1cbab08614e0cb13a93f62d1f0cb11eb5a7c71",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-dream-egg-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Dream Egg.png",
+      "sha256": "1ca09a75efefa792338dc7017a59f1d963cf878fb080f946c1982b71015e45dd",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-disenchant-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Disenchant.png",
+      "sha256": "78c541b018636ec25b3df20b12001bb10e44d2e5ef7e9b66a11f6ade114c2709",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-disenchant-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Disenchant.png",
+      "sha256": "5cec0b98491dcfb3589bd3f02d4749bc35c16ae621a4fa68331ed30f25e6045e",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-fat-moncoon-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Fat Moncoon.png",
+      "sha256": "34e4869530f906bb6f70724e92d7ee35e350e74419182bec567abdc1c015edd0",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-fat-moncoon-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Fat Moncoon.png",
+      "sha256": "f7013547fd8832ab5b9dfa2ca924be2fb5db463e7210f57c10c06265558cc28f",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-fishing-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Fishing.png",
+      "sha256": "e73d7be2dd8f8ecb48e788f4edb0351d4508d73b17618116a580ed4ce8506d09",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-fishing-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Fishing.png",
+      "sha256": "c99f480fc456caa50347c47d87458a3fb888bdae8f877640de8d5ad423e042c7",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-gambling-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Gambling.png",
+      "sha256": "7ca1b3b358d2a239187336577481b3bc67f009eac70e2f742fcb4d929c578bc1",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-gambling-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Gambling.png",
+      "sha256": "9b6fe1e3d9f317b8a84218dd20256c075b9986d394e253608468a5c09e0dbb62",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-gemcutting-runicquartz-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/GemCutting_RunicQuartz.png",
+      "sha256": "39a3e91d3ab94493da2d7c61c09d203e49dc82b543f1ea94a7058caa352da797",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-gemcutting-runicquartz-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/GemCutting_RunicQuartz.png",
+      "sha256": "159e4cd15d594ea4f128e553379ec821589a927179c6f366285fc74cd7a13d3d",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-gemcutting-elementaljade-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Gemcutting_Elementaljade.png",
+      "sha256": "6a3c9b9eb110aa40fb5e43b328f1bb2f05a104347f726e30c824f171a5407d34",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-gemcutting-elementaljade-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Gemcutting_Elementaljade.png",
+      "sha256": "ac57023476582cb645504d2e3bee4ae2d11cf27c3335939715201afd4bd7705a",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-heal-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Heal.png",
+      "sha256": "adfe1845e72e239af76f978825fbcaa7401b80374af822bd15963edb8ba93554",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-heal-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Heal.png",
+      "sha256": "ef0bc72424a96f6826bdd94e5e66d9d005486897b92cfe4716fb99b12eeccd88",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-hire-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Hire.png",
+      "sha256": "6a5186dc1f3a8670aadd8cc6d4ee0ced9d0e4a4cac7ea0fa0a2516b90e48dd5c",
+      "width": 367,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-madcap-mushrooms-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Madcap Mushrooms.png",
+      "sha256": "06f2d20a7736ebde5612aa8b367dd0c3f1255547c2b7a71b5baff0566ec80179",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-madcap-mushrooms-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Madcap Mushrooms.png",
+      "sha256": "d037cc95d8dabd50eb0c833b08657509a28fdeb7b496119484dca8389445dc03",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-mushroom-milk-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Mushroom Milk.png",
+      "sha256": "8df41ad5f1e27469c4bc87589b8b91e7ff4033f4454a9f0fcdd669dc39770a8d",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-mushroom-milk-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Mushroom Milk.png",
+      "sha256": "bd1cd13c6a288d131253a81915da1ce64e6a8ba683d7a349cebe638903404f5d",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-mazurak-s-boon-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Mazurak's Boon.png",
+      "sha256": "63a9e7c67e01c42bee98f3f4d862c7b973c78d44e94385e811ff6a98bd3d2e7d",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-mazurak-s-boon-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Mazurak's Boon.png",
+      "sha256": "527f5fd0cbe6262f84ed077bdcbb9e16f41388c73ffb202735c01707422d78ea",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-mazuraks-gaze-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Mazuraks Gaze.png",
+      "sha256": "d12b10dd058b8310cc6afc64cae6069f2179b2c3bb47aa2f2c68d5ef4d34633e",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-mazuraks-gaze-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Mazuraks Gaze.png",
+      "sha256": "6fbade6cfd0ce8a07ab031a55b3dd180e0817651964f92a7ebb7799976e87aba",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-refining-lanium-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Refining_Lanium.png",
+      "sha256": "2b51da672ae2993d389ba8059ec2331abd25c150591a01a8ed382aba4ef2b254",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-refining-lanium-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Refining_Lanium.png",
+      "sha256": "9c41e0dd44bccdd0581021d5bdf7af8fae0ad07892ebe71907d167b63307bebe",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-refining-moonsilver-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Refining_Moonsilver.png",
+      "sha256": "873c8b222560881c4556e489048a7cd9ea40a4452aa2da58f46d6cef661247d6",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-refining-moonsilver-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Refining_Moonsilver.png",
+      "sha256": "41a0e7d6abd9beecc1fb9826f7e6b7f86b029251d116ca094a2133091936a44f",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-smelting-lanium-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Smelting_Lanium.png",
+      "sha256": "485ced2cc03b237c9e82f134eb9ccda78c60088c13aba360fda5f3b07b7d8d13",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-smelting-lanium-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Smelting_Lanium.png",
+      "sha256": "82be22112afb0a317dc70b7ce1fed29169b18c439598e0384a4a3489468751b2",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-smelting-moonsilver-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Smelting_Moonsilver.png",
+      "sha256": "19ef3be1bfaf4f25b5dd927cb27ad169798c721060fb7b1708918066dac754af",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-smelting-moonsilver-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Smelting_Moonsilver.png",
+      "sha256": "f1f08a3ee49b4ae142782da1b00dab3d751262eb56c87a42bc596b943fb27451",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-rest-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Rest.png",
+      "sha256": "f63cf9ce3b1ea055ffc8aab79d6a8d24a51b6f7345576100f0aee591cb0958d1",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-rest-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Rest.png",
+      "sha256": "afd9aec7d40f4d25a1c4b9a73daa9cc942ea7db84e9abd9000ccef23a24675c1",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-starmap-of-benem-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Starmap of Benem.png",
+      "sha256": "fd2f7d1616f980dfd6492ea125bedca7044a16688d87463dd8a470d401797a9c",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-starmap-of-benem-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Starmap of Benem.png",
+      "sha256": "52f93a7146a60cb3efab5de826feec0111f7dd895dcb5f36b4c5c376ec082be5",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-store-vault-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Store Vault.png",
+      "sha256": "aa247384fc881375497128fadfed2b55712916e7ceca2cf27d776884aa4d3666",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-store-vault-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Store Vault.png",
+      "sha256": "8b6e53b29e33fd01b41df51027e254836d1c50d220eb102136e67d3b87cb2d45",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-transmute-aguracrystal-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Transmute_AguraCrystal.png",
+      "sha256": "4c58baa8f215039b8ca6005861c495f7c1415b7614b1069873c6a95fc6f3399a",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-transmute-aguracrystal-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Transmute_AguraCrystal.png",
+      "sha256": "6c1dcb6a22e5ecf2f494f5981990a0f773046985e24f6f9a1a9818423cfccd9c",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-transmute-elementaljade-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Transmute_ElementalJade.png",
+      "sha256": "3b0ac46a5d2be4252735a21c2b9344812535d54074fc35fdcc26aa3ebdedd76b",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-transmute-elementaljade-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Transmute_ElementalJade.png",
+      "sha256": "8d609768d7ac5ac5d37540861de081f41df1403d26b94bd41fc8905141276d93",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-transmute-runicquartz-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Transmute_RunicQuartz.png",
+      "sha256": "5bfe6d9b7cbdbb7b1f6bf4fffc081c7956574c936bb7a7250a3e846457ca824d",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-transmute-runicquartz-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Transmute_RunicQuartz.png",
+      "sha256": "95356ddb382b2eaf93ad7e0773fa37b5113f8a1d329261857a00629f33be296f",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-visit-archive-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Visit Archive.png",
+      "sha256": "3cdd64d2e536dd64256529d11bc492db5cbfd3e0d293ce9678902657a81316b6",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-visit-archive-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Visit Archive.png",
+      "sha256": "366799265e65f457b4b424b58f801a6e8e926f9b3dddea47fa9c686c7c7e5b37",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-work-on-the-docks-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Work on the Docks.png",
+      "sha256": "74a8c61d5f74d9212e37529517763842d3ce9fa1f2be0b5bf1f7f3316ca8e2d9",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/service-work-on-the-docks-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Work on the Docks.png",
+      "sha256": "70c4fa3fb47ec235315e188be71b31461d0c677243dc45db556796ea4dd6a66e",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/resource-puzzle-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Puzzle.png",
+      "sha256": "d88d860423f0c37b9c66f256a4ebbf1d7efaf1070fcf084c1d5ce23d3b3a1278",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/resource-puzzle-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Puzzle.png",
+      "sha256": "7dc1f98f43ba226db0c5b8a4d3540302bb78ce857b99faa7febcd4fd7f88b833",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/resource-quest-zh.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-zh/Quest.png",
+      "sha256": "8f22c7777b50c58d612d50b912a18646e148b9b98c3c1468a667f19181c2c141",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/resource-quest-en.webp",
+      "sourceFile": "../agemonia-app-card-images/tokens-services-en/Quest.png",
+      "sha256": "c2d4cc4c973dc444a409242edf4f20464a782e369b896454d304d1d539713785",
+      "width": 332,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/scenario-04-zh.webp",
+      "sourceFile": "extracted/images/level01_art_zh_assets_all/Artwork/Scenarios/Cards ZH/4.png",
+      "sha256": "8998ca2c29e78fabf23c15a64df495c27fc198febc39484ecde48b8114f6dfeb",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-04-en.webp",
+      "sourceFile": "extracted/images/level01_art_assets_all/Artwork/Scenarios/Cards/4.png",
+      "sha256": "17f4fd098d67134bd3e6a3215c28b36a580aabec5a46f01b1069e84aa1ea3870",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-05-zh.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level01_art_zh_assets_all/Artwork/Scenarios/Cards ZH/5.png",
+      "sha256": "4b21f3b1baee57c1d805ec8e77401a6beb075763488e9de6c02b961c3e9ca193",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-05-en.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level01_art_assets_all/Artwork/Scenarios/Cards/5.png",
+      "sha256": "675e2f896cad3913de4c1313cb362ab31723bf18472843d786b2ff29dc58236b",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-06-zh.webp",
+      "sourceFile": "extracted/images/level01_art_zh_assets_all/Artwork/Scenarios/Cards ZH/6.png",
+      "sha256": "75bd39019438f82d442fe64c723a76a36bececf7e44c0d80613bf5889ba1934a",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-06-en.webp",
+      "sourceFile": "extracted/images/level01_art_assets_all/Artwork/Scenarios/Cards/6.png",
+      "sha256": "40dc3bfc01a7a568c8adb4598b0ebcaaea98f7bf0bdda69ede7d4af0422fb570",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-07-zh.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level02_art_zh_assets_all/Artwork/Scenarios/Cards ZH/7.png",
+      "sha256": "f88a1b76bfb1e038cfde008f98350648518aacc6d8b053cf71d5f0731e89f57d",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-07-en.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level02_art_assets_all/Artwork/Scenarios/Cards/7.png",
+      "sha256": "ab221411cb73065a6ec13c6031080bdb951dd3bbb519713d799d90c4ca7b60ec",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-08-zh.webp",
+      "sourceFile": "extracted/images/level02_art_zh_assets_all/Artwork/Scenarios/Cards ZH/8.png",
+      "sha256": "5328a602560d10f45fb9cfa1edcea1596c8d8ae0191f639f5bd5776539190aa3",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-08-en.webp",
+      "sourceFile": "extracted/images/level02_art_assets_all/Artwork/Scenarios/Cards/8.png",
+      "sha256": "3be5da4ab8671deacdd3e1557c9549bbd8036f26c868de3532c2b989afdd25ec",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-09-zh.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level02_art_zh_assets_all/Artwork/Scenarios/Cards ZH/9.png",
+      "sha256": "9978be3c29f38a55c1b61d6fab4ae808a0f1178fb1a740e0bf57e1fa913ae368",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-09-en.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level02_art_assets_all/Artwork/Scenarios/Cards/9.png",
+      "sha256": "6742c9b5d11a849b8449dff5ecd1c3ac6cf97eeca1e2e0b53d955b878fc9f917",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-10-zh.webp",
+      "sourceFile": "extracted/images/level02_art_zh_assets_all/Artwork/Scenarios/Cards ZH/10.png",
+      "sha256": "95fcb0982676c76da87546ce97f2a4d2fa80e231d5c85e205052cd733ac68156",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-10-en.webp",
+      "sourceFile": "extracted/images/level02_art_assets_all/Artwork/Scenarios/Cards/10.png",
+      "sha256": "78566c8a90dbd6f6aad36e21316fa78db77cb9a6e60e9eed1eb88366fd421f40",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-11-zh.webp",
+      "sourceFile": "extracted/images/level02_art_zh_assets_all/Artwork/Scenarios/Cards ZH/11.png",
+      "sha256": "63abac30baa0a10793161d3af78ee857cd84c9b3aa8107a46220a331c3bbfb12",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-11-en.webp",
+      "sourceFile": "extracted/images/level02_art_assets_all/Artwork/Scenarios/Cards/11.png",
+      "sha256": "1c47837e9729a6ba0593c9ff45278df1a9616fe5c0a3da1313924efc5b1ac6e2",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-12-zh.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level02_art_zh_assets_all/Artwork/Scenarios/Cards ZH/12.png",
+      "sha256": "f09b57bcd50a09612a198e653ecffbccaf8324c852173ca755813ca51c534826",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-12-en.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level02_art_assets_all/Artwork/Scenarios/Cards/12.png",
+      "sha256": "f595ac8dfa8cebfca187ba5545535d09e58736eadadc4df5032bc697bd367752",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-13-zh.webp",
+      "sourceFile": "extracted/images/level03_art_zh_assets_all/Artwork/Scenarios/Cards ZH/13.png",
+      "sha256": "0d046341578241df690a16a269b3b5d0911949d4bcb47cd864866be34dadfd00",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-13-en.webp",
+      "sourceFile": "extracted/images/level03_art_assets_all/Artwork/Scenarios/Cards/13.png",
+      "sha256": "ed76576733afe573c4c4cabad07a492814ee49307b1ae77bd7b8f86d0da467e7",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-14-zh.webp",
+      "sourceFile": "extracted/images/level03_art_zh_assets_all/Artwork/Scenarios/Cards ZH/14.png",
+      "sha256": "d6f0835def8c41a17c70d94b9c25f5644bc2b601d6b234ae086215af945985a9",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-14-en.webp",
+      "sourceFile": "extracted/images/level03_art_assets_all/Artwork/Scenarios/Cards/14.png",
+      "sha256": "8f1b51d1b7674e55451375e69bb375ad689791795e96cd2d59352e9a6e5428c3",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-15-zh.webp",
+      "sourceFile": "extracted/images/level03_art_zh_assets_all/Artwork/Scenarios/Cards ZH/15.png",
+      "sha256": "f7700eaa13f64b0138a5c368bd1a533ff20c880cbe5ead641b3819e0f39e1e2d",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-15-en.webp",
+      "sourceFile": "extracted/images/level03_art_assets_all/Artwork/Scenarios/Cards/15.png",
+      "sha256": "4b81165d9c975cd0f838e8e74f7f1fdfd9cfd44d9713e52e09f8afdbb9d5e583",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-16-zh.webp",
+      "sourceFile": "extracted/images/level03_art_zh_assets_all/Artwork/Scenarios/Cards ZH/16.png",
+      "sha256": "94ca4b35b1c00a0323ff1597c5d7ec2139e00ef8eac1468b6fb9c0e6937e201c",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-16-en.webp",
+      "sourceFile": "extracted/images/level03_art_assets_all/Artwork/Scenarios/Cards/16.png",
+      "sha256": "483a89cedfa3c43422e1bc48d0401b551be59adff2fe164fe8bfc4170a3aee0e",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-17-zh.webp",
+      "sourceFile": "extracted/images/level03_art_zh_assets_all/Artwork/Scenarios/Cards ZH/17.png",
+      "sha256": "52c1a5219bf1759ff903e9082a7204990db7b1a11da4dc387114cd2dc70ecfff",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-17-en.webp",
+      "sourceFile": "extracted/images/level03_art_assets_all/Artwork/Scenarios/Cards/17.png",
+      "sha256": "544acb18cbdb9fd2ffa0e3a462d3a8feafa09ce0471ff7a50ed5f8a475ed0fc9",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-18-zh.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level03_art_zh_assets_all/Artwork/Scenarios/Cards ZH/18.png",
+      "sha256": "2a2c59ddf82cc2fb9a816460cb519d17d6f5a927ed74a3c089e7c5e66f17c4f5",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-18-en.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level03_art_assets_all/Artwork/Scenarios/Cards/18.png",
+      "sha256": "cb0143286656643fd16a668df5877780d4d321117179bd6ee649cde003d445f8",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-19-zh.webp",
+      "sourceFile": "extracted/images/level04_art_zh_assets_all/Artwork/Scenarios/Cards ZH/19.png",
+      "sha256": "2e680a3f1d4cdf5169cd1ba3dde4abff35c6cb6570d875d16f0a9b6597615916",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-19-en.webp",
+      "sourceFile": "extracted/images/level04_art_assets_all/Artwork/Scenarios/Cards/19.png",
+      "sha256": "a50bddf91d9df13c9338d428791ff94aa386a32726eb5a6c1be178c3e70a26f2",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-20-zh.webp",
+      "sourceFile": "extracted/images/level04_art_zh_assets_all/Artwork/Scenarios/Cards ZH/20.png",
+      "sha256": "0bad587cd4a73dcec7470002e93b4c3754975e94dbdbb15a4c0a6155a45c5696",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-20-en.webp",
+      "sourceFile": "extracted/images/level04_art_assets_all/Artwork/Scenarios/Cards/20.png",
+      "sha256": "42051a57514aa75b0694b477289fba3d5f03029fd04bdf4a77bcc58daf3b86d2",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-21-zh.webp",
+      "sourceFile": "extracted/images/level04_art_zh_assets_all/Artwork/Scenarios/Cards ZH/21.png",
+      "sha256": "edd7c2a5244ac0db88b80a09c71c0f88bee433daeffef1a9c98849eb60764bd5",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-21-en.webp",
+      "sourceFile": "extracted/images/level04_art_assets_all/Artwork/Scenarios/Cards/21.png",
+      "sha256": "b09a382629252fbe6fd868c5a8801196eb40a26b2d6f90429dd7a58cac4363a0",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-22-zh.webp",
+      "sourceFile": "extracted/images/level04_art_zh_assets_all/Artwork/Scenarios/Cards ZH/22.png",
+      "sha256": "7063965bf3f737b67ace82b5b4116183934129b2d3aad94ee7822748bb586824",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-22-en.webp",
+      "sourceFile": "extracted/images/level04_art_assets_all/Artwork/Scenarios/Cards/22.png",
+      "sha256": "7e074057c33b51155a9e1ce64324a71090776086724845b8e1063ecbee69e210",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-23-zh.webp",
+      "sourceFile": "extracted/images/level04_art_zh_assets_all/Artwork/Scenarios/Cards ZH/23.png",
+      "sha256": "94f7e6f7958dac9c39305c262d78b6d82435722cb66fde630d55ea435192d150",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-23-en.webp",
+      "sourceFile": "extracted/images/level04_art_assets_all/Artwork/Scenarios/Cards/23.png",
+      "sha256": "407d0f98626ae35e14d1c4f82c8f42d61e7827dd221d5063b99d2d90e58f8b14",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-24-zh.webp",
+      "sourceFile": "extracted/images/level04_art_zh_assets_all/Artwork/Scenarios/Cards ZH/24.png",
+      "sha256": "a9bb16c4472d4373db09122ccf2745212899764f6be1f1ac54c37625dfc50016",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-24-en.webp",
+      "sourceFile": "extracted/images/level04_art_assets_all/Artwork/Scenarios/Cards/24.png",
+      "sha256": "2542ffcef10e45c1e285dfb13d767f1667fed8d787349deab1ae15f1efff1b37",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-25-zh.webp",
+      "sourceFile": "extracted/images/level04_art_zh_assets_all/Artwork/Scenarios/Cards ZH/25.png",
+      "sha256": "c6fb38a824a8025d3616c3ffd1fd433a34d5b2c3f8139e2a6f324241dafd8e2f",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-25-en.webp",
+      "sourceFile": "extracted/images/level04_art_assets_all/Artwork/Scenarios/Cards/25.png",
+      "sha256": "08ec256de8f7ccf85250ab51b7af114c1ce72f23dbdb069d2b8b5f0e8713c05a",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-26-zh.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level04_art_zh_assets_all/Artwork/Scenarios/Cards ZH/26.png",
+      "sha256": "f1024c8f9b6fab6b258f05b1c1eab65f8cc07255b14926e5d5fbc00d484df41b",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-26-en.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level04_art_assets_all/Artwork/Scenarios/Cards/26.png",
+      "sha256": "7f13a10d34fb3f62b1140dedeea493e35ed994af2dc332e2d4eb4b6a88caae28",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-27-zh.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level04_art_zh_assets_all/Artwork/Scenarios/Cards ZH/27.png",
+      "sha256": "470defa9e646f3cee6c9996207dc7a431bd878dfb8ff40425995a57eb99a1558",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-27-en.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level04_art_assets_all/Artwork/Scenarios/Cards/27.png",
+      "sha256": "1840331d80aeb36aff14e9d8511125539c58e3facecfc3e4aead39b6d2bfc78e",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-28-zh.webp",
+      "sourceFile": "extracted/images/level05_art_zh_assets_all/Artwork/Scenarios/Cards ZH/28.png",
+      "sha256": "3135e5a4c095c836076ac89d3f45468aacbbc39964c8bee56274f9c1ee5cec6f",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-28-en.webp",
+      "sourceFile": "extracted/images/level05_art_assets_all/Artwork/Scenarios/Cards/28.png",
+      "sha256": "29d7aac1668c226f4867bfd3a06f6cde9e4d66cfba083a450cb2742158af6185",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-29-zh.webp",
+      "sourceFile": "extracted/images/level05_art_zh_assets_all/Artwork/Scenarios/Cards ZH/29.png",
+      "sha256": "a5adc7d323b6a52286b7c1de766f75e9c5825f4ea4b1226e20d75613950d7c89",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-29-en.webp",
+      "sourceFile": "extracted/images/level05_art_assets_all/Artwork/Scenarios/Cards/29.png",
+      "sha256": "1f49659ff26c596da1045808d7c5ab0c938e5f04f7be0e8ecef3c4cbcd82d616",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-30-zh.webp",
+      "sourceFile": "extracted/images/level05_art_zh_assets_all/Artwork/Scenarios/Cards ZH/30.png",
+      "sha256": "c5bda1202622073080cab6d94c81fda6862b3a4e7e4e9109bb43d58c94400ac2",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-30-en.webp",
+      "sourceFile": "extracted/images/level05_art_assets_all/Artwork/Scenarios/Cards/30.png",
+      "sha256": "7172631f9fdd976155d57ff23b2cb227de8e756a805fb35e5fefd75c904cb103",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-31-zh.webp",
+      "sourceFile": "extracted/images/level05_art_zh_assets_all/Artwork/Scenarios/Cards ZH/31.png",
+      "sha256": "edc7fbc40365ce5123b4dad1dd6e83a99f5b3b510776ca32f054fee7f68028e3",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-31-en.webp",
+      "sourceFile": "extracted/images/level05_art_assets_all/Artwork/Scenarios/Cards/31.png",
+      "sha256": "910c8b0af785e8507b074dba2bdec98ce5cd717acdaf8db4acd4dff8acea0961",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-32-zh.webp",
+      "sourceFile": "extracted/images/level05_art_zh_assets_all/Artwork/Scenarios/Cards ZH/32.png",
+      "sha256": "c97a80c14daa6ac5d0c3844641a6cfdfe97e4d504aedd61a3de12094888df6a9",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-32-en.webp",
+      "sourceFile": "extracted/images/level05_art_assets_all/Artwork/Scenarios/Cards/32.png",
+      "sha256": "ad96ab05eed0be25d84fd99dfa1474b7e78582246973259a07dfb76017437c03",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-33-zh.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level05_art_zh_assets_all/Artwork/Scenarios/Cards ZH/33.png",
+      "sha256": "a2d881a943a0c97498530a228c7a6fd648a41f0a4867080ca9acb242dfaa7b1d",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-33-en.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level05_art_assets_all/Artwork/Scenarios/Cards/33.png",
+      "sha256": "e7ecc67e3340d1acad79fd2925379114c34e659f208c3ca62a34ef4d6e482827",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-34-zh.webp",
+      "sourceFile": "extracted/images/level05_art_zh_assets_all/Artwork/Scenarios/Cards ZH/34.png",
+      "sha256": "2ccf6fd7b63b6603ec9ec1247055793d0ec265348b84331720a08a4040dcd100",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-34-en.webp",
+      "sourceFile": "extracted/images/level05_art_assets_all/Artwork/Scenarios/Cards/34.png",
+      "sha256": "4491b34ecbe1f07546d8c299c5f739d30e09b7cd18c23c54a2bf89321354f344",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-35-zh.webp",
+      "sourceFile": "extracted/images/level05_art_zh_assets_all/Artwork/Scenarios/Cards ZH/35.png",
+      "sha256": "216e169ed9a07211e9dd967386726c9cd94da0133a7e830f829f66589ec83b39",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-35-en.webp",
+      "sourceFile": "extracted/images/level05_art_assets_all/Artwork/Scenarios/Cards/35.png",
+      "sha256": "c96b3ad674c9bfabdd99f2d65c09234ac90a5f12c126d69f82479504a0284365",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-36-zh.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level05_art_zh_assets_all/Artwork/Scenarios/Cards ZH/36.png",
+      "sha256": "99e79a23d46543126ab21b8c7e74794beaa7254c361f0795fa50c92a45ef727f",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/scenario-36-en.webp",
+      "sourceFile": "extracted/images/nonexpscenario_level05_art_assets_all/Artwork/Scenarios/Cards/36.png",
+      "sha256": "f96337c8c7950280bb0472756515e46bc9b32d55f3aff7c0bc71a46b3bf8e015",
+      "width": 598,
+      "height": 1024
+    },
+    {
+      "src": "assets/library-cards/artifact-01-en.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Item Cards/Agemonia_Artifact-cards_2022-12-08.png",
+      "sha256": "c1e490770c078a843b13a7449669220842704169e78859f9aa5c227b78ea2540",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/artifact-02-en.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Item Cards/Agemonia_Artifact-cards_2022-12-083.png",
+      "sha256": "093a1b011aa3e09fbbb114ebfb78fffe739b9be5f43b4942c221fce11fb94b6a",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/artifact-03-en.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Item Cards/Agemonia_Artifact-cards_2022-12-087.png",
+      "sha256": "9dc5d366c77bfd1eda498290bfa3d41a28ff36d95b2b7345e71190ca2bad4b25",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/artifact-04-en.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Item Cards/Agemonia_Artifact-cards_2022-12-084.png",
+      "sha256": "43fa39d3674ede6bbcc21770d10bba0feeabc62ffd344c6a562c9220b1a089b5",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/artifact-05-en.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Item Cards/Agemonia_Artifact-cards_2022-12-085.png",
+      "sha256": "f810a6913a8e05d65d5b24e2516fdda4000c6d9aaab3cc120a94751f37c2a954",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/artifact-06-en.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Item Cards/Agemonia_Artifact-cards_2022-12-082.png",
+      "sha256": "a34c5aefaf303b2d9b91c99d883b8bb7ea2113831e690734f9850042b6c2d3e7",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/artifact-07-en.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Item Cards/Agemonia_Artifact-cards_2022-12-086.png",
+      "sha256": "f5732a3f122826b6ac261dc84c1e866b0d55c823d3111eeee652c9971f0fc10d",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/artifact-08-en.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Item Cards/Agemonia_Artifact-cards_2022-12-0810.png",
+      "sha256": "a593bbb51f9bc3936e50cba25c3818f70191250132190bc23ec45e07aeac3d49",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/artifact-09-en.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Item Cards/Agemonia_Artifact-cards_2022-12-089.png",
+      "sha256": "cf9e003e069d4e3d056b7b82f20a88e39d920d1c9d6cc328af5ff9104a51a176",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/artifact-10-en.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Item Cards/Agemonia_Artifact-cards_2022-12-088.png",
+      "sha256": "303227454e7e5c77c3ba595776a1d8153e4be847e1180f15a391af68d69abc63",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/artifact-rules.webp",
+      "sourceTitle": "中文版规则参考书",
+      "printedPage": 60,
+      "pdfPage": 64,
+      "sourceImageSha256": "5c6913fb7e5b4ac7a8d4c76f65a3eec5db52dd7cccc9705dc2046f25a0fcbbd0",
+      "width": 1343,
+      "height": 1900
+    },
+    {
+      "src": "assets/library-cards/prof-0-base.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Agemonia_Profession-cards_2022-10-2811.png",
+      "sha256": "c68d31fbd0da7a2137cfa23f34a32287cabdc404b5d29fba1fc5ebfc0183a9b7",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/entry-232-master.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Draught of Veils.png",
+      "sha256": "42cb0c0bbb377295e2357f9d6bdf9d2dcb20e0dcd37eb49ef9ef96ff72fbf99f",
+      "width": 367,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/promo-0.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Elixir of Healing.png",
+      "sha256": "25bbc8e13b18354c3273117f77e120d7d3f09d572e292e5496d1b23d41a956a6",
+      "width": 367,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/prof-1-base.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Agemonia_Profession-cards_2022-10-283.png",
+      "sha256": "3723e7eac1c86f395eaf9f143a8a71a3adaeb27fcca4f4fb1849f73791c7a10b",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/entry-238-master.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Cube of Annihilation.png",
+      "sha256": "e4b1fe2c43e4501796940eda62064b90edbbd0cf299cbe6e2760e2dc7f62d8e6",
+      "width": 367,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/promo-1.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Heartseeker Arrow.png",
+      "sha256": "4e11be66af221abe8a3e81d77529d8df5bc62759a4036f413afb396cc830ced5",
+      "width": 367,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/prof-2-base.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Agemonia_Profession-cards_2022-10-287.png",
+      "sha256": "6f938d6488274388d914ad4f1a3e20bf015f8ea91089da7a3c3e85292573d5de",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/entry-244-master.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Scroll of Resurrection.png",
+      "sha256": "61893763ea8bd174e860b1e2eb238d206f71aa4c46016cf47d4de306303ad332",
+      "width": 367,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/promo-2.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Scroll of Summoning.png",
+      "sha256": "ad157d292d70da01ad5d18e9da5dc043bdecde8384b685b4dddf977c5762ee15",
+      "width": 367,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/prof-3-base.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Agemonia_Profession-cards_2022-10-2813.png",
+      "sha256": "db0b62f780feb15718ad00d2744f028aa96577d9c7e2affb7a2fda4e0e87ad44",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/entry-250-master.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Jade Figurine.png",
+      "sha256": "798dcff0ee7f3a931c856eba88f87c66f77e4aad0b4506f4287ec48ac5944155",
+      "width": 367,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/promo-3.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Master Summoner.png",
+      "sha256": "1dba117157b69cb436e66bada5dacdc3d50f9586763a763b45788188a02ea0c3",
+      "width": 367,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/prof-4-base.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Agemonia_Profession-cards_2022-10-28.png",
+      "sha256": "ea8711d4ee65b4c82ef7b248278219be0ed6357c0d62a3f0fc02a00d15718865",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/entry-256-master.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Rune of the Spider.png",
+      "sha256": "d6bc231ca49573df9b65c876a5b0ab0d57e116b4714b92e3a77ce5ae958b82ab",
+      "width": 367,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/promo-4.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Rune of the Star.png",
+      "sha256": "0d10735f65b51879f5b4ce03bfd3bc0b1aa16f037d89b3616e0121320ca8e822",
+      "width": 367,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/prof-5-base.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Agemonia_Profession-cards_2022-10-289.png",
+      "sha256": "d53a1569f6310c81404c86c1342cb73aa8df1c2d9204dc5e31bb3f204d44bee9",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/entry-262-master.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/True Mercenary.png",
+      "sha256": "fc244f6f81bfb0fbc05be5608bb1acfb4a686685bb5df125a95fefab2110a676",
+      "width": 367,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/promo-5.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Contacts Runedale.png",
+      "sha256": "eadebe1dd427e5575522245d0be6958212bb5c1da6dbb464785384412de51fc9",
+      "width": 367,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/prof-6-base.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Agemonia_Profession-cards_2022-10-285.png",
+      "sha256": "68842d00285908303b4661c2151beaed81053cd0d2afb6260d5dd92b0c02909c",
+      "width": 299,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/entry-268-master.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Void Extract.png",
+      "sha256": "265717d297c62681e02729ddb50915771b8853b3eadc940f0844fa6d216f6d7b",
+      "width": 367,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/promo-6.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Dream Eggs.png",
+      "sha256": "d00da3c2030567244865f1230d7b4416a761f642d47f7d56c203a24c61eb233f",
+      "width": 367,
+      "height": 512
+    },
+    {
+      "src": "assets/library-cards/master-disenchanting.webp",
+      "sourceFile": "extracted/images/level01_art_runedale_assets_all/Artwork/Point of Interests/Profession Cards/Disenchanting.png",
+      "sha256": "347c6b7900d78ca49941248aa07fb218c8f9c55992025be91ae679593ce0151c",
+      "width": 367,
+      "height": 512
+    }
+  ]
+}
